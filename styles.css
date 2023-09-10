@@ -88,4 +88,6 @@
 
         .navbar-link:hover {
             background-color: white;
+            color: blue;
         }
+
